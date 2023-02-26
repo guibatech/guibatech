@@ -1,6 +1,8 @@
 <h3>Thanks for visiting! 🖖</h3>
 
-<p>🔭 I'm currently working on <strong>v1</strong> of the <strong>YellowMobi</strong> project, an experimental free and open source social network built with Laravel (PHP), HTML5, CSS3, Bootstrap, JavaScript and MySQL technologies.</p>
+<h4>Current projects</h4>
+
+<p>🔭 I'm currently working on <strong>v1</strong> of the <strong>YellowMobi</strong> project, an experimental free and open source social network built with <strong>Laravel (PHP)</strong>, <strong>HTML5</strong>, <strong>CSS3</strong>, <strong>Bootstrap</strong>, <strong>JavaScript</strong> and <strong>MySQL</strong> technologies.</p>
 <ul>
     <li>
         Access <strong>v1</strong> of the <strong>YellowMobi</strong> project by <a href="https://github.com/guibatech/YellowMobi/tree/v1" title="v1 of the YellowMobi project." target="_SELF">clicking here</a>
@@ -8,6 +10,12 @@
     <li>
         Access the project's main repository by <a href="https://github.com/guibatech/YellowMobi/tree/main" title="Main repository of the YellowMobi project." target="_SELF">clicking here</a>. 
     </li>
+</ul>
+
+<h4>Past projects</h4>
+
+<ul>
+    <li>-</li>
 </ul>
 
 <p>📫 Contact me: <strong>contactme@guibatech.com</strong></p>
