@@ -1,16 +1,13 @@
-### Hi there 👋
+<h3>Thanks for visiting! 🖖</h3>
 
-<!--
-**guibatech/guibatech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>🔭 I'm currently working on version 1 of the YellowMobi project, an experimental free and open source social network built with Laravel (PHP), HTML5, CSS3, Bootstrap, JavaScript and MySQL technologies.</p>
+<ul>
+    <li>
+        Access <strong>v1</strong> of the <strong>YellowMobi</strong> project by <a href="https://github.com/guibatech/YellowMobi/tree/v1" title="v1 of the YellowMobi project." target="_SELF">clicking here</a>
+    </li>
+    <li>
+        Access the project's main repository by <a href="https://github.com/guibatech/YellowMobi/tree/main" title="Main repository of the YellowMobi project." target="_SELF">clicking here</a>. 
+    </li>
+</ul>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>📫 Contact me: contactme@guibatech.com</p>
