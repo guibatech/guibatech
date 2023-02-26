@@ -10,6 +10,6 @@
     </li>
 </ul>
 
-<p>📫 Contact me: contactme@guibatech.com</p>
+<p>📫 Contact me: <strong>contactme@guibatech.com</strong></p>
 
-<p>Feel free to contact me, clone my projects or contribute to them too.</p>
+<p>Feel free to contact me, clone my projects or contribute to them too. 😀</p>
