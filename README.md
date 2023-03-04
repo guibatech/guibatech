@@ -18,6 +18,6 @@
     <li>-</li>
 </ul>
 
-<p>📫 Contact me: <strong>contactme@guibatech.com</strong></p>
+<p>📫 Contact me: <strong>guilhermebarros1419@gmail.com</strong></p>
 
 <p>Feel free to contact me, clone my projects or contribute to them too. 😀</p>
